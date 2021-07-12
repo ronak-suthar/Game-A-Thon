@@ -11,7 +11,7 @@ int add(int a,int b){
 }
 ```
 
-### Problem Statement 2 :Given Participant Name Out Welcome Message of Game-A-Thon
+### Problem Statement 2 : Write Program for Given Participant Name Display Welcome Message of Game-A-Thon
 
 TestCase 2: Input : Ronak , Output : Welcome to IEEE YCCE SB Game-A-Thon : Ronak
 
