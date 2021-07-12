@@ -5,7 +5,7 @@
 ### Problem Statement 1 :Given Two Integers Write a Function to Return Their Sum
 TestCase 1: Input : 5 10 , Ouput : 15
 
-``` 
+```c
 int add(int a,int b){
     return a+b;
 }
@@ -15,7 +15,7 @@ int add(int a,int b){
 
 TestCase 2: Input : Ronak , Output : Welcome to IEEE YCCE SB Game-A-Thon : Ronak
 
-```
+```c
 #include<stdio.h>
 
 int main(void){
